@@ -1,0 +1,152 @@
+[
+    {
+        "Major": {
+            "Name": "Astronomy"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Biology"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Chemistry"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Computer science"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Engineering"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Earth sciences"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Health sciences"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Information technology"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Mathematics"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Physics"
+        }
+    },
+    {
+        "Major": {
+            "Name": "English"
+        }
+    },
+    {
+        "Major": {
+            "Name": "French Education"
+        }
+    },
+    {
+        "Major": {
+            "Name": "History"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Nursing"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Philosophy"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Psychology"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Sociology"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Spanish Education"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Womens Studies"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Athletic Training"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Dietetics"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Elementary Education"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Emergency Management"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Exercise Science"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Hospitality Management"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Middle Level Education"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Public Health"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Physical Education"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Social Work"
+        }
+    },
+    {
+        "Major": {
+            "Name": "Special Education"
+        }
+    }
+]
