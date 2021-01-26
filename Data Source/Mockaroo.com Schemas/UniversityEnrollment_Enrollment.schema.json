@@ -1,0 +1,93 @@
+{
+  "id": 276388,
+  "num_rows": 1000,
+  "file_format": "json",
+  "name": "UniversityEnrollment_Enrollment",
+  "array": true,
+  "columns": [
+    {
+      "name": "Student.ID",
+      "null_percentage": 0,
+      "type": "Number",
+      "min": 1,
+      "max": 402000,
+      "decimals": 0,
+      "formula": ""
+    },
+    {
+      "name": "Course.ID",
+      "null_percentage": 0,
+      "type": "Number",
+      "min": 1,
+      "max": 267,
+      "decimals": 0,
+      "formula": ""
+    },
+    {
+      "name": "Instructor.ID",
+      "null_percentage": 0,
+      "type": "Number",
+      "min": 1,
+      "max": 200,
+      "decimals": 0,
+      "formula": ""
+    },
+    {
+      "name": "Enrollment.Grade",
+      "null_percentage": 0,
+      "type": "Custom List",
+      "values": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "W"
+      ],
+      "selectionStyle": "random",
+      "distribution": null,
+      "formula": ""
+    },
+    {
+      "name": "Enrollment.Score",
+      "null_percentage": 0,
+      "type": "Number",
+      "min": 0,
+      "max": 100,
+      "decimals": 2,
+      "formula": ""
+    },
+    {
+      "name": "Enrollment.AbsenceRate",
+      "null_percentage": 0,
+      "type": "Number",
+      "min": 0,
+      "max": 100,
+      "decimals": 0,
+      "formula": ""
+    },
+    {
+      "name": "Enrollment.Semester",
+      "null_percentage": 0,
+      "type": "Custom List",
+      "values": [
+        "Fall",
+        "Summer",
+        "Spring"
+      ],
+      "selectionStyle": "random",
+      "distribution": null,
+      "formula": ""
+    },
+    {
+      "name": "Enrollment.Year",
+      "null_percentage": 0,
+      "type": "Number",
+      "min": 2000,
+      "max": 2020,
+      "decimals": 0,
+      "formula": ""
+    }
+  ]
+}

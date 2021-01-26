@@ -1,0 +1,49 @@
+{
+  "id": 276361,
+  "num_rows": 30,
+  "file_format": "json",
+  "name": "UniversityEnrollment_Major",
+  "array": true,
+  "columns": [
+    {
+      "name": "Major.Name",
+      "null_percentage": 0,
+      "type": "Custom List",
+      "values": [
+        "Astronomy",
+        "Biology",
+        "Chemistry",
+        "Computer science",
+        "Engineering",
+        "Earth sciences",
+        "Health sciences",
+        "Information technology",
+        "Mathematics",
+        "Physics",
+        "English",
+        "French Education",
+        "History",
+        "Nursing",
+        "Philosophy",
+        "Psychology",
+        "Sociology",
+        "Spanish Education",
+        "Womens Studies",
+        "Athletic Training",
+        "Dietetics",
+        "Elementary Education",
+        "Emergency Management",
+        "Exercise Science",
+        "Hospitality Management",
+        "Middle Level Education",
+        "Public Health",
+        "Physical Education",
+        "Social Work",
+        "Special Education"
+      ],
+      "selectionStyle": "sequential",
+      "distribution": null,
+      "formula": ""
+    }
+  ]
+}

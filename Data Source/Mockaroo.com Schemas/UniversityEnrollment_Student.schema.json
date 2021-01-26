@@ -1,0 +1,185 @@
+{
+  "id": 276379,
+  "num_rows": 1000,
+  "file_format": "json",
+  "name": "UniversityEnrollment_Student",
+  "array": true,
+  "columns": [
+    {
+      "name": "Student.ID",
+      "null_percentage": 0,
+      "type": "Row Number",
+      "formula": "this + request_params['init_ID'].to_i"
+    },
+    {
+      "name": "Student.FirstName",
+      "null_percentage": 0,
+      "type": "First Name",
+      "formula": ""
+    },
+    {
+      "name": "Student.LastName",
+      "null_percentage": 0,
+      "type": "Last Name",
+      "formula": ""
+    },
+    {
+      "name": "Student.Gender",
+      "null_percentage": 0,
+      "type": "Gender",
+      "formula": ""
+    },
+    {
+      "name": "Student.Race",
+      "null_percentage": 0,
+      "type": "Custom List",
+      "values": [
+        "Black",
+        "White",
+        "Asian",
+        "American Indian",
+        "Native Hawaiian "
+      ],
+      "selectionStyle": "random",
+      "distribution": null,
+      "formula": ""
+    },
+    {
+      "name": "Student.Dob",
+      "null_percentage": 0,
+      "type": "Datetime",
+      "min": "1/1/1980",
+      "max": "1/1/2000",
+      "format": "%-m/%-d/%Y",
+      "formula": ""
+    },
+    {
+      "name": "Student.Level",
+      "null_percentage": 0,
+      "type": "Custom List",
+      "values": [
+        "Graduate",
+        "Undergraduate "
+      ],
+      "selectionStyle": "random",
+      "distribution": null,
+      "formula": ""
+    },
+    {
+      "name": "Student.Graduated",
+      "null_percentage": 0,
+      "type": "Boolean",
+      "formula": ""
+    },
+    {
+      "name": "Address.Line",
+      "null_percentage": 0,
+      "type": "Street Address",
+      "formula": ""
+    },
+    {
+      "name": "Address.City",
+      "null_percentage": 0,
+      "type": "City",
+      "formula": ""
+    },
+    {
+      "name": "Address.ZipCode",
+      "null_percentage": 0,
+      "type": "Number",
+      "min": 10000,
+      "max": 99999,
+      "decimals": 0,
+      "formula": ""
+    },
+    {
+      "name": "Address.State",
+      "null_percentage": 0,
+      "type": "State",
+      "onlyUSPlaces": false,
+      "formula": "this || \"n/a\""
+    },
+    {
+      "name": "Address.Country",
+      "null_percentage": 0,
+      "type": "Country",
+      "countries": [
+
+      ],
+      "formula": ""
+    },
+    {
+      "name": "Address.Latitude",
+      "null_percentage": 0,
+      "type": "Latitude",
+      "formula": ""
+    },
+    {
+      "name": "Address.Longitude",
+      "null_percentage": 0,
+      "type": "Longitude",
+      "formula": ""
+    },
+    {
+      "name": "Major.Name",
+      "null_percentage": 0,
+      "type": "Custom List",
+      "values": [
+        "Astronomy",
+        "Biology",
+        "Chemistry",
+        "Computer science",
+        "Engineering",
+        "Earth sciences",
+        "Health sciences",
+        "Information technology",
+        "Mathematics",
+        "Physics",
+        "English",
+        "French Education",
+        "History",
+        "Nursing",
+        "Philosophy",
+        "Psychology",
+        "Sociology",
+        "Spanish Education",
+        "Womens Studies",
+        "Athletic Training",
+        "Dietetics",
+        "Elementary Education",
+        "Emergency Management",
+        "Exercise Science",
+        "Hospitality Management",
+        "Middle Level Education",
+        "Public Health",
+        "Physical Education",
+        "Social Work",
+        "Special Education"
+      ],
+      "selectionStyle": "random",
+      "distribution": null,
+      "formula": ""
+    },
+    {
+      "name": "Graduation.Semester",
+      "null_percentage": 0,
+      "type": "Custom List",
+      "values": [
+        "Fall",
+        "Spring"
+      ],
+      "selectionStyle": "random",
+      "distribution": null,
+      "formula": ""
+    },
+    {
+      "name": "Graduation.Year",
+      "null_percentage": 0,
+      "type": "Number",
+      "min": 2001,
+      "max": 2020,
+      "decimals": 0,
+      "formula": ""
+    }
+  ]
+}

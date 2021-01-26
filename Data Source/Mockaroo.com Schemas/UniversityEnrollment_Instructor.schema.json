@@ -1,0 +1,27 @@
+{
+  "id": 276348,
+  "num_rows": 200,
+  "file_format": "json",
+  "name": "UniversityEnrollment_Instructor",
+  "array": true,
+  "columns": [
+    {
+      "name": "Instructor.ID",
+      "null_percentage": 0,
+      "type": "Row Number",
+      "formula": ""
+    },
+    {
+      "name": "Instructor.FirstName",
+      "null_percentage": 0,
+      "type": "First Name",
+      "formula": ""
+    },
+    {
+      "name": "Instructor.LastName",
+      "null_percentage": 0,
+      "type": "Last Name",
+      "formula": ""
+    }
+  ]
+}

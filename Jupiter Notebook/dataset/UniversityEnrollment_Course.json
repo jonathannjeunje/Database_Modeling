@@ -1,0 +1,1871 @@
+[
+  {
+    "Course": {
+      "ID": 1,
+      "Name": "ACQ COMM DIS",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 2,
+      "Name": "ADOLES DEV",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 3,
+      "Name": "ADV CHORAL PED",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 4,
+      "Name": "ADV COG PROC",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 5,
+      "Name": "ADV COPY LAYOUT",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 6,
+      "Name": "ADV INORG CHEM",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 7,
+      "Name": "ADV MOD OPTICS",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 8,
+      "Name": "ADV ORG CHEM",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 9,
+      "Name": "ADV PRIN & PRAC",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 10,
+      "Name": "ADV VIDAUD PROD",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 11,
+      "Name": "AG ANALYSIS",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 12,
+      "Name": "AGRI FINANCE",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 13,
+      "Name": "AMER GOVT & POL",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 14,
+      "Name": "ANALYT TECH I",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 15,
+      "Name": "APP SP EX PSYCH",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 16,
+      "Name": "APPL CALC I",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 17,
+      "Name": "APPL MEAT SCI",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 18,
+      "Name": "APPL PHYS LAB",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 19,
+      "Name": "APPL PHYSICS",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 20,
+      "Name": "ARGUMENTATION",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 21,
+      "Name": "ART MTL JEW I",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 22,
+      "Name": "ASL II",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 23,
+      "Name": "AUDIO PRODCTN I",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 24,
+      "Name": "AUDIOMETRY",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 25,
+      "Name": "BADMINTON I",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 26,
+      "Name": "BAND/ORCH LIT",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 27,
+      "Name": "BASKETBALL",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 28,
+      "Name": "BEEF PROD & MGT",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 29,
+      "Name": "BIOL WORLD",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 30,
+      "Name": "BIOMETRICS",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 31,
+      "Name": "BUS COMMUNIC",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 32,
+      "Name": "BUS TECH GLBL",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 33,
+      "Name": "C A M MACHINING",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 34,
+      "Name": "CAL AN GEOM III",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 35,
+      "Name": "CALC AN GEOM II",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 36,
+      "Name": "CARDIO PRINCIPL",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 37,
+      "Name": "CASE MANAGEMENT",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 38,
+      "Name": "CATERING",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 39,
+      "Name": "CLASS OBS ED",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 40,
+      "Name": "CLASS PIANO IV",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 41,
+      "Name": "CLIN ASSESS II",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 42,
+      "Name": "CLINICAL PSY",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 43,
+      "Name": "CM FLDWRK ACAD",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 44,
+      "Name": "CMHC INTERN II",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 45,
+      "Name": "COACH PRACT",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 46,
+      "Name": "COGN PROCESSES",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 47,
+      "Name": "COMM AG ISSUES",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 48,
+      "Name": "COMM ARCH DSN",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 49,
+      "Name": "COMP DIFF EQNS",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 50,
+      "Name": "COMP FORENSICS",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 51,
+      "Name": "COMP GOVT POL",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 52,
+      "Name": "COMP GRAPHICS",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 53,
+      "Name": "COMP LITRCY I",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 54,
+      "Name": "COMP MTHDS ENGR",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 55,
+      "Name": "COMP ORG I",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 56,
+      "Name": "CON LAW CIV LIB",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 57,
+      "Name": "CONCEPT LEISURE",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 58,
+      "Name": "CONCERT CHOIR",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 59,
+      "Name": "CONST SAFETY",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 60,
+      "Name": "CONSULTATION",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 61,
+      "Name": "CONTEM PHYS ACT",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 62,
+      "Name": "CORE COMP MATH",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 63,
+      "Name": "CORRECTIVE READ",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 64,
+      "Name": "CRIM SCN INVEST",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 65,
+      "Name": "CROP ECO MNGT",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 66,
+      "Name": "CS FORENSICS II",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 67,
+      "Name": "CYBERSEC PRINC",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 68,
+      "Name": "DAL KOD ORF CLS",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 69,
+      "Name": "DATA STRUCT I",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 70,
+      "Name": "DATA STRUCT II",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 71,
+      "Name": "DATAVIZ DEC MK",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 72,
+      "Name": "DESIGN & PROTO",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 73,
+      "Name": "DEV LANG DIS",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 74,
+      "Name": "DIF EQUA LAB",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 75,
+      "Name": "DIG MEDIA PR II",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 76,
+      "Name": "DIGITAL DESIGN",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 77,
+      "Name": "DIRECT MKTG MGT",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 78,
+      "Name": "DIRECTING SEM",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 79,
+      "Name": "DRAWING I",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 80,
+      "Name": "DYNAMIC MET II",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 81,
+      "Name": "DYSPHAGIA",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 82,
+      "Name": "ECH FIELD II",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 83,
+      "Name": "ED LAW & POLICY",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 84,
+      "Name": "EL PHYS CHEM",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 85,
+      "Name": "ELEC & MAG I",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 86,
+      "Name": "ELEM GERMAN II",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 87,
+      "Name": "ENGR GRAPHICS",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 88,
+      "Name": "ENGR STATICS",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 89,
+      "Name": "ENV OC HLTH PRB",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 90,
+      "Name": "ESTMT & PRO PRN",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 91,
+      "Name": "EVAL PRO S/L PA",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 92,
+      "Name": "EX TESTING/ECG",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 93,
+      "Name": "FIELD WORK II",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 94,
+      "Name": "FIN HEALTH",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 95,
+      "Name": "FINITE ELEMENTS",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 96,
+      "Name": "FIT OLD SPECPOP",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 97,
+      "Name": "FLD WRK II",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 98,
+      "Name": "FLUENCY DIS",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 99,
+      "Name": "FND TAC LDRSHIP",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 100,
+      "Name": "FOOD SCI TH APP",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 101,
+      "Name": "FORENSIC EVALS",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 102,
+      "Name": "GEN CHEM I LAB",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 103,
+      "Name": "GEN CHEM II",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 104,
+      "Name": "GEOMETRIC MODEL",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 105,
+      "Name": "GEOTECH DESIGN",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 106,
+      "Name": "GLOBAL SCM",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 107,
+      "Name": "GOLF I",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 108,
+      "Name": "GRAD COS STUDIO",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 109,
+      "Name": "GRAD LD STUDIO",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 110,
+      "Name": "GRAIN DRY&STORE",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 111,
+      "Name": "GRANT WRITING",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 112,
+      "Name": "GRP PROC & PSY",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 113,
+      "Name": "HEALTH ISS SPED",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 114,
+      "Name": "HEALTH POLICY",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 115,
+      "Name": "HIGHWAY DESIGN",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 116,
+      "Name": "HISTTHEORYMETHO",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 117,
+      "Name": "HMLND SEC ENTIT",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 118,
+      "Name": "HOME HORT",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 119,
+      "Name": "IGN MET PETROL",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 120,
+      "Name": "ILL GOVT & POL",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 121,
+      "Name": "INSTRUM ANALYSI",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 122,
+      "Name": "INT HUMAN COMM",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 123,
+      "Name": "INT LAW & SOC",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 124,
+      "Name": "INT TAC LDRSHIP",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 125,
+      "Name": "INTAGLIO 2 & 3",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 126,
+      "Name": "INTAGLIO I",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 127,
+      "Name": "INTEG SCI II",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 128,
+      "Name": "INTENSIV PROG",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 129,
+      "Name": "INTERM ALG",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 130,
+      "Name": "INTL MKTG",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 131,
+      "Name": "INTL MONEY ECON",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 132,
+      "Name": "INTR PSYCHOLOGY",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 133,
+      "Name": "INTRO AG TECH",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 134,
+      "Name": "INTRO NUTRITION",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 135,
+      "Name": "INTRO POWER SYS",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 136,
+      "Name": "INTRO PUB SPKG",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 137,
+      "Name": "INTRO SOCIOLOGY",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 138,
+      "Name": "INTRO TO ART",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 139,
+      "Name": "INTRO TO AUDIT",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 140,
+      "Name": "INTRO TO FOREST",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 141,
+      "Name": "INTRO TO SEM",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 142,
+      "Name": "INTRO TO THEA",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 143,
+      "Name": "ISSUES TRNDS TR",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 144,
+      "Name": "JAZZ BAND",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 145,
+      "Name": "LAS SENIOR CAP",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 146,
+      "Name": "LAW BUS ORGAN",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 147,
+      "Name": "LG IS PRO CSP",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 148,
+      "Name": "LIGHT AND SOUND",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 149,
+      "Name": "LITHOGRAPHY 2&3",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 150,
+      "Name": "LITHOGRAPHY I",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 151,
+      "Name": "LIVESTOCK MERCH",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 152,
+      "Name": "LRNG ENVIRONMT",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 153,
+      "Name": "M THER CLIN I",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 154,
+      "Name": "M THER CLIN II",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 155,
+      "Name": "MANUF PROCESSES",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 156,
+      "Name": "MECHATRONICS I",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 157,
+      "Name": "MGMNT ENGR TECH",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 158,
+      "Name": "MGT ATH INJURY",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 159,
+      "Name": "MGT OF T R",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 160,
+      "Name": "MICROBIOLOGY",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 161,
+      "Name": "MIND BRAIN BEH",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 162,
+      "Name": "MKTG MANAGEMENT",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 163,
+      "Name": "MKTG PRINCIPLES",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 164,
+      "Name": "MKTG RESEARCH",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 165,
+      "Name": "MOD DANCE III",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 166,
+      "Name": "MULTMED PERFORM",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 167,
+      "Name": "MUS ENTREPREN",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 168,
+      "Name": "MUS LEARN EXCEP",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 169,
+      "Name": "MUS SKILL/MT II",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 170,
+      "Name": "MUS THEA DANCE",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 171,
+      "Name": "NATL HAZARDS",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 172,
+      "Name": "NCL & PART PHYS",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 173,
+      "Name": "NET/WALL GAMES",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 174,
+      "Name": "NETFUNDAMENTALS",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 175,
+      "Name": "NO-TILL FARM",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 176,
+      "Name": "NUM ALG GEO T&L",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 177,
+      "Name": "NUMER ANAL I",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 178,
+      "Name": "NUTR INFORMATIC",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 179,
+      "Name": "NUTRIENT MGMT",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 180,
+      "Name": "OPER MGT",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 181,
+      "Name": "ORD DIFF EQUAT",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 182,
+      "Name": "ORG ADM CRM JUS",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 183,
+      "Name": "ORGANIC CHEM II",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 184,
+      "Name": "P ED METHODS",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 185,
+      "Name": "PAINTING 2 & 3",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 186,
+      "Name": "PAINTING I",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 187,
+      "Name": "PCHEM-THR & KIN",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 188,
+      "Name": "PCK&RDG IN MATH",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 189,
+      "Name": "PERC ENSEMBLE",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 190,
+      "Name": "PERCUSSION TECH",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 191,
+      "Name": "PERS FITN PROG",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 192,
+      "Name": "PERSON & ADJUST",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 193,
+      "Name": "PERSONALITY",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 194,
+      "Name": "PH EPIDEMIOLOGY",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 195,
+      "Name": "PLANT ANATOMY",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 196,
+      "Name": "PLANT BREEDING",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 197,
+      "Name": "PR INTVW SKIL",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 198,
+      "Name": "PRACTICUM IV",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 199,
+      "Name": "PRIN COM SCI",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 200,
+      "Name": "PRIN MGRL ACCT",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 201,
+      "Name": "PRIN MICRO",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 202,
+      "Name": "PRIN REC SPORT",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 203,
+      "Name": "PRIN THER REC",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 204,
+      "Name": "PRINCIPLES GIS",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 205,
+      "Name": "PROF PREP",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 206,
+      "Name": "PROMO CONCEPTS",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 207,
+      "Name": "PSY ADULT AGING",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 208,
+      "Name": "PYTH DATA EXPL",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 209,
+      "Name": "QTY FD PROD SRV",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 210,
+      "Name": "QUAN TECH CJ",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 211,
+      "Name": "QUANT METHD COM",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 212,
+      "Name": "QUANTUM MECH I",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 213,
+      "Name": "REAL ESTATE",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 214,
+      "Name": "REC FOR LIFE",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 215,
+      "Name": "RES IN PSY I",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 216,
+      "Name": "RES IN PSY II",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 217,
+      "Name": "RESIDENT ST DEV",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 218,
+      "Name": "RETAILING MGMT",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 219,
+      "Name": "S P INTAGLIO",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 220,
+      "Name": "S P LITHOG",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 221,
+      "Name": "S P PAINTING",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 222,
+      "Name": "SC INTERNSHP II",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 223,
+      "Name": "SCENE PAINTING",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 224,
+      "Name": "SCI THINK CSD",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 225,
+      "Name": "SCUBA I",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 226,
+      "Name": "SCUBA IV",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 227,
+      "Name": "SEMINAR",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 228,
+      "Name": "SENIOR DESIGN",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 229,
+      "Name": "SERV PROD MKTG",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 230,
+      "Name": "SEXUAL IDENTITY",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 231,
+      "Name": "SHEEP SCIENCE",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 232,
+      "Name": "SMALL BUS MGT",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 233,
+      "Name": "SOC RES MTH II",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 234,
+      "Name": "SOCIAL BEHAVIOR",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 235,
+      "Name": "SOIL WTR CONS",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 236,
+      "Name": "SOILS & FNDTNS",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 237,
+      "Name": "SPORT NUTRITION",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 238,
+      "Name": "SPORT PSYCH",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 239,
+      "Name": "SR FLD WRK",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 240,
+      "Name": "SR SEM EXER SCI",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 241,
+      "Name": "STAT METHODS",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 242,
+      "Name": "STEEL BAND",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 243,
+      "Name": "STRESSMGT RELAX",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 244,
+      "Name": "STRUCTURAL GEOL",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 245,
+      "Name": "STUDY & SEMINAR",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 246,
+      "Name": "SW RES METH",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 247,
+      "Name": "SW RES STAT",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 248,
+      "Name": "SYMPH WIND ENS",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 249,
+      "Name": "SYNOPTIC MET II",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 250,
+      "Name": "TAP DANCE I",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 251,
+      "Name": "TCH&ASMT CHORAL",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 252,
+      "Name": "TEC LIVSTK EVAL",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 253,
+      "Name": "THEO ACT & DIR",
+      "Credit": 1
+    }
+  },
+  {
+    "Course": {
+      "ID": 254,
+      "Name": "THEORY II",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 255,
+      "Name": "THEORY IV",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 256,
+      "Name": "TRAFFIC ADMIN",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 257,
+      "Name": "TRANSPORT MGT",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 258,
+      "Name": "U S MIL HIST",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 259,
+      "Name": "UNIV PHYS II",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 260,
+      "Name": "UNIV PHYSICS IV",
+      "Credit": 4
+    }
+  },
+  {
+    "Course": {
+      "ID": 261,
+      "Name": "UNIV SINGERS",
+      "Credit": 6
+    }
+  },
+  {
+    "Course": {
+      "ID": 262,
+      "Name": "URBAN FOR MGT",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 263,
+      "Name": "VIS CON FOR STG",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 264,
+      "Name": "WEED SCIENCE",
+      "Credit": 2
+    }
+  },
+  {
+    "Course": {
+      "ID": 265,
+      "Name": "WEIGHT TNG",
+      "Credit": 3
+    }
+  },
+  {
+    "Course": {
+      "ID": 266,
+      "Name": "WHAT TO LIS FOR",
+      "Credit": 5
+    }
+  },
+  {
+    "Course": {
+      "ID": 267,
+      "Name": "WOMEN IN RELIG",
+      "Credit": 1
+    }
+  }
+]
